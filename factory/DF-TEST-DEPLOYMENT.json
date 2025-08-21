@@ -1,0 +1,9 @@
+{
+	"name": "DF-TEST-DEPLOYMENT",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c2a97ba-6097-4d06-afca-c022ef5010e3",
+		"tenantId": "3d234255-e20f-4205-88a5-9658a402999b"
+	}
+}
